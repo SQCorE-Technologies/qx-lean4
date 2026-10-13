@@ -63,8 +63,8 @@ QX Lean 4 ejecuta automáticamente un pipeline de análisis compuesto por las si
 
 ## 📥 Instalación
 
-1. Descarga la versión **v0.1.2** desde [Releases](https://github.com/SQCorE-Technologies/qx-lean4/releases/tag/v0.1.2).
-2. Ejecuta el instalador: **`QX Lean 4_0.1.2_x64-setup.exe`**.
+1. Descarga la versión **v0.1.3** desde [Releases](https://github.com/SQCorE-Technologies/qx-lean4/releases/tag/v0.1.3).
+2. Ejecuta el instalador: **`QX Lean 4_0.1.3_x64-setup.exe`**.
 3. Sigue el asistente de instalación.
 4. Abre **QX Lean 4**.
 
